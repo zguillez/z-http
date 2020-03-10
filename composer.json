@@ -1,0 +1,23 @@
+{
+  "name": "zguillez/z-http",
+  "description": "PHP module for http request",
+  "keywords": [
+    "php",
+    "request",
+    "get",
+    "post"
+  ],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Guillermo de la Iglesia",
+      "email": "mail@zguillez.io"
+    }
+  ],
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "Z\\": "src/"
+    }
+  }
+}
