@@ -4,20 +4,20 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "1d42c5c8c73fe7ee4db70b74bc6dc57f",
+    "content-hash": "67633935e3d38b02cf1107e43304d012",
     "packages": [
         {
-            "name": "zguillez/z-database",
-            "version": "v0.0.3",
+            "name": "zguillez/z-http",
+            "version": "v0.0.1",
             "source": {
                 "type": "git",
-                "url": "https://github.com/zguillez/z-database.git",
-                "reference": "16f07975263e5bc54197f3874a961aef2f086bd3"
+                "url": "https://github.com/zguillez/z-http.git",
+                "reference": "fa126fa258880295130f93195af39f23bda12378"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/zguillez/z-database/zipball/16f07975263e5bc54197f3874a961aef2f086bd3",
-                "reference": "16f07975263e5bc54197f3874a961aef2f086bd3",
+                "url": "https://api.github.com/repos/zguillez/z-http/zipball/fa126fa258880295130f93195af39f23bda12378",
+                "reference": "fa126fa258880295130f93195af39f23bda12378",
                 "shasum": ""
             },
             "type": "library",
@@ -36,13 +36,14 @@
                     "email": "mail@zguillez.io"
                 }
             ],
-            "description": "PHP module for MySql database",
+            "description": "PHP module for http request",
             "keywords": [
-                "database",
-                "mysql",
-                "php"
+                "get",
+                "php",
+                "post",
+                "request"
             ],
-            "time": "2020-03-09T23:45:49+00:00"
+            "time": "2020-03-10T00:22:00+00:00"
         }
     ],
     "packages-dev": [],
